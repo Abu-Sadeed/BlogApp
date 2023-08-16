@@ -16,7 +16,7 @@
     "install": "^0.13.0",
     "method-override": "^3.0.0",
     "mongodb": "^3.5.6",
-    "mongoose": "^5.9.7"
+    "mongoose": "^5.13.20"
   },
   "devDependencies": {},
   "repository": {
